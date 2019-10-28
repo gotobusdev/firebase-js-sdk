@@ -107,7 +107,7 @@ fireauth.idp.RESERVED_OAUTH2_PARAMS =
 fireauth.idp.Settings = {
   FACEBOOK: {
     languageParam: 'locale',
-    popupWidth: 500,
+    popupWidth: 700,
     popupHeight: 600,
     providerId: fireauth.idp.ProviderId.FACEBOOK,
     reservedOAuthParameters: fireauth.idp.RESERVED_OAUTH2_PARAMS
